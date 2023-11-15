@@ -1,0 +1,9 @@
+,document_name,contact_type,contact_value
+0,input/doc1.txt,phone_number,+7 (495) 123-45-67
+1,input/doc1.txt,phone_number,8(800)555-99-00
+2,input/doc2.txt,phone_number,+74998887766
+3,input/doc2.txt,phone_number,88352123456
+4,input/doc2.txt,adress,"ул. Мира, д.23"
+5,input/doc3.txt,phone_number,+79314422720
+6,input/doc3.txt,adress,"ул. Ленина, дом 123"
+7,input/doc3.txt,adress,"ул. Волка, дом 33"
